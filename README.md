@@ -13,7 +13,7 @@
 <h3 align="center" >Things I code with</h3>
 <p align="center">
  
- <img alt="cpp" src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social" />
+ <img alt="cpp" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" />
 <img alt="javascript" src="https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-007ACC?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-430098?style=flat-square&logo=react&logoColor=white" />
@@ -22,7 +22,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  
+   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <br>
@@ -31,7 +31,8 @@
 <h3 align="center">Contact me here</h3>
 <p align="center">
   <a href="https://github.com/shiwangiY" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
- <!-- <a href="" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
-  <a href="https://www.linkedin.com/in/shiwangi-yadav-11a982205/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+ <a href="mailto:shiwangiyadav001@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-shiwangiyadav001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shiwangiyadav001@gmail.com" /></a>
+ <!--[![Gmail Badge](https://img.shields.io/badge/-shiwangiyadav001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shiwangiyadav001@gmail.com)](mailto:shiwangiyadav001@gmail.com) --> 
+ <a href="https://www.linkedin.com/in/shiwangi-yadav-11a982205/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
  <a href="https://www.instagram.com/shivu_dh_/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/instagram-dd2a7b.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
