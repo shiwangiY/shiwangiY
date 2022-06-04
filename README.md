@@ -1,5 +1,5 @@
 <h2> 
-  Hi there! I'm Shiwangi, Welcome to my page.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
+  Hi there! I'm Shiwangi, Welcome to my page.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">  
 </h2>
 
 <p >
